@@ -1,1 +1,1 @@
-# myfirstrepo
+Проба пера в GIT
